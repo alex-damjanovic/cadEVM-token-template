@@ -4,3 +4,4 @@ matplotlib
 pandas
 plotly
 python-dotenv
+nbformat>=4.2.0
